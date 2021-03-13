@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and gaming
 - 🌱 I’m currently learning Go,Rust
 - 💞️ I’m looking to collaborate on writing my OS and programming language
-- 📫 reach me on [caviar-x@caviar-x.ltd](mailto:caviar-x@caviar-x.ltd) or this github
+- 📫 reach me on [caviarx@163.com](mailto:caviarx@163.com) or this github
 
 <!---
 Caviar-X/Caviar-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
