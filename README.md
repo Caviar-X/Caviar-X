@@ -2,4 +2,4 @@
 A high school student
 
 ## Blog
-[https://www.rust-fanboy.top](https://www.rust-fanboy.top)
+[https://synthesizer.moe](https://synthesizer.moe)
